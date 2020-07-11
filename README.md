@@ -6,7 +6,7 @@ Analise de dados Publicos relacionados a quantidade de leitos de UTI presentes n
 Criador: Renan Palomino Granusso
 
 
-Primeiramente, foi coletada a base de dados que mostra todas as informações referentes aos Leitos de UTI no Brasil (Publico e Privado) no site do IBGE com a ultima atualização realizada a 2 meses Atrás
+Primeiramente, foi coletada a base de dados que mostra todas as informações referentes aos Leitos de UTI no Brasil (Publico e Privado) no site do IBGE com a ultima atualização realizada a 2 meses Atrás, a análise inclui: número total de cidades no Brasil que não possui nenhum leito de UTI, número total de cidades por região (Norte, Sul, Sudeste e Nordeste) que não possui nenhum leito de UTI, Número total de cidades por Estado que não possui nenhum leito de UTI.
 
 A base pode ser encontrada no seguinte Link: https://saude-ibgedgc.hub.arcgis.com/datasets/2dfd385e7ded49c6b7f7929911806a20_7/data
 Ou no Link para download Direto: https://drive.google.com/file/d/1i-PxOnTEWmZnH7PvLssgXccvKcCxELnZ/view?usp=sharing
