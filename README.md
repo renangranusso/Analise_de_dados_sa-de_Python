@@ -1,6 +1,10 @@
 # Analise de dados Públicos relacionados ao Números de Leitos de UTI presentes no Brasil
 Analise de dados Publicos relacionados a quantidade de leitos de UTI presentes no Brasil
 
+*ANALISE FEITA COM FINS INSTITUCIONAIS*
+
+Criador: Renan Palomino Granusso
+
 
 Primeiramente, foi coletada a base de dados que mostra todas as informações referentes aos Leitos de UTI no Brasil (Publico e Privado) no site do IBGE com a ultima atualização realizada a 2 meses Atrás
 
